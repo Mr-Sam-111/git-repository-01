@@ -3,3 +3,4 @@
 
 print 'Hello world!'
 print 'I love PYTHON.'
+print 'And he love me :)'
