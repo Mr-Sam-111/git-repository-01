@@ -5,3 +5,5 @@ print 'Hello world!!!'
 print 'Hello my dear friend.'
 print 'I love PYTHON.'
 print 'And you?'
+
+#_Project_Closed
