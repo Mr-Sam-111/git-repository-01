@@ -3,5 +3,3 @@
 
 print 'Goodbye :('
 print 'Till next time.'
-
-#_Project_Closed
