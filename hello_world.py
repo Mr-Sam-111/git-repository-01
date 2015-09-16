@@ -2,5 +2,6 @@
 # python 2.7.9
 
 print 'Hello world!!!'
+print 'Hello my dear friend.'
 print 'I love PYTHON.'
-print 'And he loves me :)'
+print 'And you?'
